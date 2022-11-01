@@ -16,5 +16,8 @@
   "bugs": {
     "url": "https://github.com/maxdhs/grace-shopper-VT/issues"
   },
-  "homepage": "https://github.com/maxdhs/grace-shopper-VT#readme"
+  "homepage": "https://github.com/maxdhs/grace-shopper-VT#readme",
+  "dependencies": {
+    "express": "^4.18.2"
+  }
 }
